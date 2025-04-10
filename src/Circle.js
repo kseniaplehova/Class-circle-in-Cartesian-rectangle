@@ -1,0 +1,1 @@
+const ksenoa = 0;
